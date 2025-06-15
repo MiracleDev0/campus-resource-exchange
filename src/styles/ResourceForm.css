@@ -1,0 +1,33 @@
+.resource-form{
+    text-align: center;
+    width: 80%;
+    margin: 2rem auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.resource-form h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.resource-form p  {
+    color: #666;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.resource-form input {
+    width: 50%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+.resource-form button {
+    padding: 0.7rem 1rem;
+    background-color: #494b50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}

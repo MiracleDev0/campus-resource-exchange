@@ -1,0 +1,35 @@
+.resource-card {
+    width: 20%;
+    margin: 2rem 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.7rem 0.7rem;
+}
+.resource-card h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+}
+.resource-card p {
+    font-size: 1rem;
+    color: #666;
+}
+.resource-card span {
+    font-weight: bold;
+    color: #333;
+    border: #333 1px solid;
+    padding: 0.2rem 0.5rem;
+    background-color:wheat;
+    font-size: 0.75rem;
+    border-radius: 5px;
+}
+.resource-card button {
+    background-color: #4e4c4c;
+    color: white;
+    border: none;
+    padding: 0.5rem 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
