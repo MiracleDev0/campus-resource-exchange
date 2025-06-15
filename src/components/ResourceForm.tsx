@@ -14,6 +14,7 @@ const ResourceForm: React.FC = () => {
     setName('');
     setDescription('');
     setOwner('');
+    alert('Resource posted successfully!');
   };
 
   return (
